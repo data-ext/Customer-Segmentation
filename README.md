@@ -1,5 +1,5 @@
 # Customer Segmentation with RFM Analysis, using Python and Power BI
-![Header](https://raw.githubusercontent.com/daniel-isidro/customer_segmentation/main/media/header.jpg)
+![Uploading image.png…]()
 # Table of Contents
 
 [Introduction](#introduction) <br>
