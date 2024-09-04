@@ -1,5 +1,6 @@
 # Customer Segmentation with RFM Analysis, using Python and Power BI
-(https://static-blog.omniconvert.com/blog/wp-content/uploads/2023/02/16200411/0_99bZuLOG5pD0bCK6-800x491.webp)
+![image](https://github.com/user-attachments/assets/f21ce5b5-f5a4-4e81-b397-e2f37ec3a1d5)
+
 # Table of Contents
 
 [Introduction](#introduction) <br>
