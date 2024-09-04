@@ -1,5 +1,6 @@
 # Customer Segmentation with RFM Analysis, using Python and Power BI
-![image](https://github.com/user-attachments/assets/f21ce5b5-f5a4-4e81-b397-e2f37ec3a1d5)
+![image](https://github.com/user-attachments/assets/9487df59-cb58-4eaf-9989-c115c72ccf13)
+
 
 # Table of Contents
 
